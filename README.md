@@ -1,5 +1,6 @@
 # AZ900 - Revision Notes
 
+The purpose of this repo is to track my notes for Microsoft AZ-900 revision, all information is opensource and does not divulge any actual exam questions. 
 
 |Topic|% of Exam|Status|
 |---|---|---|
