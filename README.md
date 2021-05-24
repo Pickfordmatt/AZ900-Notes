@@ -6,7 +6,7 @@ The purpose of this repo is to track my notes for Microsoft AZ-900 revision, all
 |---|---|---|
 |Cloud Concepts|20-25%|Complete|
 |Core Azure Services|15-20%|Complete|
-|Core solutions and management tools on Azure|10-15%|Incomplete|
+|Core solutions and management tools on Azure|10-15%|Complete|
 |General security and network security features|10-15%|Complete|
 |Identity, governance, privacy, and compliance features|20-25%|Incomplete|
 |Azure cost management and Service Level Agreements|10-15%|Complete|
