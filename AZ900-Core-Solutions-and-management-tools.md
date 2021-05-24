@@ -33,12 +33,13 @@
 
 #### Azure Functions
 ***
-- Ability to create functions to run serverless, these can be run based on multiple 
+- Ability to create functions to run serverless, these can be run based on multiple triggers such as a HTTP reqquest or time
 - No need for the Azure admin to setup any hardware, or manage the operating system
 - Can result in higher than expected costs should lots of unexepcted compute take place
 
 #### Azure Logic App
 ***
 
-#### Azure DevOps Solutions
-***
+- Logic apps are a workflow service, they rely on steps, step 1,2,3 etc.
+- Can also be triggered based on elements such as a HTTP request, but also can include third party apps like Dropbox etc.
+
