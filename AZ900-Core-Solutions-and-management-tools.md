@@ -33,7 +33,9 @@
 
 #### Azure Functions
 ***
-
+- Ability to create functions to run serverless, these can be run based on multiple 
+- No need for the Azure admin to setup any hardware, or manage the operating system
+- Can result in higher than expected costs should lots of unexepcted compute take place
 
 #### Azure Logic App
 ***
