@@ -43,3 +43,15 @@
 - Logic apps are a workflow service, they rely on steps, step 1,2,3 etc.
 - Can also be triggered based on elements such as a HTTP request, but also can include third party apps like Dropbox etc.
 
+
+## Management Tools
+- Azure CLI
+  - Ability to write scripts in both Powershell and Bash
+  - You can access the cloud shell within your browser
+  - Mobile app also possible to use for monitoring health and status of resources
+  
+- Azure Advisor
+  - This will monitor your Azure account, will give recommendations on multiple elements
+    - Costs (Recommends shutting down unused servers etc)
+    - Security
+    - Performance
